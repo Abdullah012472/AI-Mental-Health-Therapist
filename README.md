@@ -1,6 +1,6 @@
 # 🧠 AI Mental Health Therapist
 
-An AI-powered mental health assistant that provides supportive conversations, locates nearby therapists, and can place emergency calls when needed.  
+An AI-powered mental health assistant that provides supportive conversations, locates nearby therapists and can place emergency calls when needed.  
 
 This project integrates **LLMs (Gemini, MedGemma)** with **LangChain, LangGraph, Twilio, and Streamlit** to create a safe, real-time mental health chatbot.  
 
@@ -17,7 +17,7 @@ This project integrates **LLMs (Gemini, MedGemma)** with **LangChain, LangGraph,
 ## ⚙️ Setup & Installation
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/your-username/AI-Mental-Health-Therapist.git
+   https://github.com/Abdullah012472/AI-Mental-Health-Therapist.git
    cd AI-Mental-Health-Therapist
    ```
 2. **Create virtual environment & install dependencies**

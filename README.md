@@ -26,22 +26,22 @@ This project integrates **LLMs (Gemini, MedGemma)** with **LangChain, LangGraph,
     uv sync
     ```
 3. **Add your environment variables in .env**
-```bash
-GEMINI_API_KEY=your_gemini_api_key
-TWILIO_ACCOUNT_SID=your_twilio_sid
-TWILIO_AUTH_TOKEN=your_twilio_auth_token
-TWILIO_FROM_NUMBER=+123456789
-EMERGENCY_CONTACT=+112
-```
+    ```bash
+    GEMINI_API_KEY=your_gemini_api_key
+    TWILIO_ACCOUNT_SID=your_twilio_sid
+    TWILIO_AUTH_TOKEN=your_twilio_auth_token
+    TWILIO_FROM_NUMBER=+123456789
+    EMERGENCY_CONTACT=+112
+    ```
 
 4. **Run the backend (FastAPI)**
-```bash
-uv run backend/main.py
-```
+    ```bash
+    uv run backend/main.py
+    ```
 5. **Run the frontend (Streamlit)**
-```bash
-uv run streamlit run frontend.py
-```
+    ``bash
+    uv run streamlit run frontend.py
+    ```
 
 
 

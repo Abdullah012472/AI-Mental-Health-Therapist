@@ -39,7 +39,7 @@ This project integrates **LLMs (Gemini, MedGemma)** with **LangChain, LangGraph,
     uv run backend/main.py
     ```
 5. **Run the frontend (Streamlit)**
-    ``bash
+    ```bash
     uv run streamlit run frontend.py
     ```
 

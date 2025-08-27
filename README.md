@@ -4,7 +4,6 @@ An AI-powered mental health assistant that provides supportive conversations, lo
 
 This project integrates **LLMs (Gemini, MedGemma)** with **LangChain, LangGraph, Twilio, and Streamlit** to create a safe, real-time mental health chatbot.  
 
----
 
 ## 🚀 Features
 - 🤝 **AI Chat Support** – Empathetic, therapeutic responses powered by MedGemma & Gemini.  
